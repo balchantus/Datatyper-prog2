@@ -1,0 +1,7 @@
+C:\Users\robin.nastrand\source\repos\Datatyper\Datatyper\bin\Debug\Datatyper.exe.config
+C:\Users\robin.nastrand\source\repos\Datatyper\Datatyper\bin\Debug\Datatyper.exe
+C:\Users\robin.nastrand\source\repos\Datatyper\Datatyper\bin\Debug\Datatyper.pdb
+C:\Users\robin.nastrand\source\repos\Datatyper\Datatyper\obj\Debug\Datatyper.csproj.AssemblyReference.cache
+C:\Users\robin.nastrand\source\repos\Datatyper\Datatyper\obj\Debug\Datatyper.csproj.CoreCompileInputs.cache
+C:\Users\robin.nastrand\source\repos\Datatyper\Datatyper\obj\Debug\Datatyper.exe
+C:\Users\robin.nastrand\source\repos\Datatyper\Datatyper\obj\Debug\Datatyper.pdb
